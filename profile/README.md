@@ -26,4 +26,3 @@ Ultimate Reverse Proxy & DDoS Protection for Minecraft Servers. Stay online 24/7
 
 ✅ **Fast Response**: We reply within 24 hours.  
 🎯 **Custom Solutions**: Tailored protection for your needs.  
-🔧 **24/7 Support**: Technical assistance whenever needed.
