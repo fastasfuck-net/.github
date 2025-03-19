@@ -1,4 +1,4 @@
-# Fast as F**k
+# Fast as Fuck
 
 Ultimate Reverse Proxy & DDoS Protection for Minecraft Servers. Stay online 24/7 with blazing fast connections.
 
