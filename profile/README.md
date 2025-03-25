@@ -17,7 +17,6 @@ Ultimate Reverse Proxy & DDoS Protection for Minecraft Servers. Stay online 24/7
 - **Logging & Analytics**: Detailed insights into traffic and security events.
 
 ## Server Status
-- **84.51%** Uptime (24h)
 - **99.9%** Uptime Goal
 - **24/7** Monitoring for maximum reliability.
 
